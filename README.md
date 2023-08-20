@@ -28,14 +28,15 @@
 
 1. Clone this repository:
 
-   git clone https://github.com/zulfkhar00/tcp-socket-chat.git
+   `git clone https://github.com/zulfkhar00/tcp-socket-chat.git`
 
 2. Compile both client and server programs using the provided Makefile:
-
+   ```
    cd tcp-socket-chat
    make all
+   ```
 
-3. This will create two executables: ./client and ./server.
+4. This will create two executables: `./client` and `./server`.
 
 ## Usage 🚀
 
